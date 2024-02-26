@@ -88,7 +88,7 @@
   -We used dataset provided by
   DELL
 # Sample Dataset:
-  -We ziped the sample of the dataset provided by DELL in a zip file for convenience
+  -We ziped a sample of the dataset that was provided by DELL in multiple zip files for convenience this sample was used for training the AI
 
   
   
