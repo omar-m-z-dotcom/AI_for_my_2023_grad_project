@@ -87,6 +87,7 @@
 # Dataset:
   -We used dataset provided by
   DELL
+  -We ziped the sample of the dataset provided by DELL in a zip file for convenience
 
   
   
